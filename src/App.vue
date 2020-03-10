@@ -65,4 +65,15 @@
   .space {
     min-height: 70px;
   }
+  .back{
+    z-index: 11;
+  }
+  .menu{
+    position: fixed;
+    left: 100%;
+    top: -17px;
+    cursor: pointer;
+    z-index: 10;
+
+  }
 </style>

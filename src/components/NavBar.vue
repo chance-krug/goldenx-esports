@@ -51,14 +51,16 @@
 </script>
 
 <style scoped>
-    /*.menu{*/
-    /*    position: fixed;*/
-    /*    left: 100%;*/
-    /*    top: -17px;*/
-    /*    cursor: pointer;*/
-    /*    z-index: 10;*/
-
-    /*}*/
+    .menu{
+        position: fixed;
+        left: 100%;
+        top: -17px;
+        cursor: pointer;
+        z-index: 10;
+    }
+    .bm-burger-bars {
+        background-color: white;
+    }
     .back{
         z-index: 11;
     }
