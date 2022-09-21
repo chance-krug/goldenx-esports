@@ -16,7 +16,7 @@
     "vue-burger-menu": "^2.0.3",
     "vue-tweet-embed": "^2.4.0",
     "vue-twitter": "^0.1.0",
-    "vuetify": "^2.2.14"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@nuxtjs/vuetify": "^1.11.0",
